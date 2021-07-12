@@ -2,6 +2,8 @@
   "name": "npm-test-angela",
   "description": "Test React component",
   "author": "pla_ste_red4057",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
   "keywords": ["react", "component", "plus", "one", "button"],
   "version": "1.0.0",
   "dependencies": {
