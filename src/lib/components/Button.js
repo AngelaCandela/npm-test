@@ -11,7 +11,7 @@ export default function Button() {
     return (
         <>
             <h1>{num}</h1>
-            <button onClich={handleClick}>Click me!</button>
+            <button onClick={handleClick}>Click me!</button>
         </>
     )
 }
