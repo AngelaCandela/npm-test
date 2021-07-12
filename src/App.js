@@ -1,5 +1,6 @@
 import './App.css';
-import Button from './lib/components/Button';
+/* import Button from './lib/components/Button'; */
+import { Button } from 'npm-test-angela';
 
 function App() {
   return (

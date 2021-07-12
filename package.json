@@ -4,13 +4,20 @@
   "author": "pla_ste_red4057",
   "main": "dist/index.js",
   "module": "dist/index.js",
-  "keywords": ["react", "component", "plus", "one", "button"],
-  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "component",
+    "plus",
+    "one",
+    "button"
+  ],
+  "version": "1.0.1",
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
+    "npm-test-angela": "file:npm-test-angela-1.0.0.tgz",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
