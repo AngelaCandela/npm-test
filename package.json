@@ -4,6 +4,10 @@
   "author": "pla_ste_red4057",
   "main": "dist/index.js",
   "module": "dist/index.js",
+  "files": [
+    "dist",
+    "README"
+  ],
   "keywords": [
     "react",
     "component",
@@ -12,7 +16,7 @@
     "button"
   ],
   "private": false,
-  "version": "1.0.2",
+  "version": "1.0.3",
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
     "@testing-library/jest-dom": "^5.11.4",
