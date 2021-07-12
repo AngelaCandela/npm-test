@@ -7834,21 +7834,6 @@
   dependencies:
     "path-key" "^3.0.0"
 
-"npm-test-angela@file:npm-test-angela-1.0.0.tgz":
-  "integrity" "sha512-eIc6htLjJFLapMQMcj3y971t+fWcFNjNrHz/awSKrUVklhg090E6MxmQ4m5BvnzxItvPOY622MSWboa57GVQyQ=="
-  "resolved" "file:npm-test-angela-1.0.0.tgz"
-  "version" "1.0.0"
-  dependencies:
-    "@babel/polyfill" "^7.12.1"
-    "@testing-library/jest-dom" "^5.11.4"
-    "@testing-library/react" "^11.1.0"
-    "@testing-library/user-event" "^12.1.10"
-    "npm-test-angela" "file:npm-test-angela-1.0.0.tgz"
-    "react" "^17.0.2"
-    "react-dom" "^17.0.2"
-    "react-scripts" "4.0.3"
-    "web-vitals" "^1.0.1"
-
 "nth-check@^1.0.2":
   "integrity" "sha512-WeBOdju8SnzPN5vTUJYxYUxLeXpCaVP5i5e0LF8fg7WORF2Wd7wFX/pk0tYZk7s8T+J7VLy0Da6J1+wCT0AtHg=="
   "resolved" "https://registry.yarnpkg.com/nth-check/-/nth-check-1.0.2.tgz"
